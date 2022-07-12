@@ -1,0 +1,24 @@
+{
+  "name": "locator",
+  "version": "1.0.0",
+  "description": "Procura o país de origem da request",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gildoneto/locator-node-modules.git"
+  },
+  "keywords": [
+    "ip",
+    "geo",
+    "country"
+  ],
+  "author": "\"Gildo Neto \\ <gildo@gildo.com\\> (https://github.com/gildoneto)",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/gildoneto/locator-node-modules/issues"
+  },
+  "homepage": "https://github.com/gildoneto/locator-node-modules#readme"
+}
